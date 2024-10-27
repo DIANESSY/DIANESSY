@@ -9,14 +9,14 @@ My journey in computer science has led me to develop a passion for cloud computi
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SysAdmin (Linux and windows platforms)        | <a href="https://google.com">Detection Lab</a>|
-| Cloud Admin (AWS, AZURE)                      | <a href="https://google.com">Detection Lab</a>|
-| Network administration                        | SOC Automation Lab|
-| Python Programmingn                           | SOC Automation Lab|
+| Skill                                                                               | Associated Project         |
+|-------------------------------------------------------------------------------------|----------------------------|
+| SysAdmin (Linux and windows platforms)                                              | <a href="https://google.com">Detection Lab</a>|
+| Cloud Admin (AWS, AZURE)                                                            | <a href="https://google.com">Detection Lab</a>|
 | Devops tools(CICD pipeline, IaC, Automation,Monitoring, docker... )                 | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python Programming                                                                  | SOC Automation Lab|
+| Devops tools(CICD pipeline, IaC, Automation,Monitoring, docker... )                 | SOC Automation Lab|
+| Scripting and Automation                                                            | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
