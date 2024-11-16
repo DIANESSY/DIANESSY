@@ -15,7 +15,6 @@ My journey in computer science has led me to develop a passion for cloud computi
 | Cloud Admin (AWS, AZURE)                                                            | <a href="https://github.com/DIANESSY/Azure-projets.git">Azure Lab</a>|
 | Devops tools(CICD pipeline, IaC, Automation,Monitoring, docker... )                 | SOC Automation Lab|
 | Python Programming                                                                  | SOC Automation Lab|
-| Devops tools(CICD pipeline, IaC, Automation,Monitoring, docker... )                 | SOC Automation Lab|
 | Scripting and Automation                                                            | SOC Automation Lab|
 
 ## Tools
